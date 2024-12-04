@@ -1,0 +1,11 @@
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe.config
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.Review.V6.Lib.dll
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\bin\Debug\Tyuiu.MenshchikovaDA.Lab1.Review.V6.Lib.pdb
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6.csproj.AssemblyReference.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6.csproj.SuggestedBindingRedirects.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6.csproj.CoreCompileInputs.cache
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6.csproj.CopyComplete
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.exe
+D:\МОЕ\магистр\пупупу\3 МиСПКП\Tyuiu.MenshchikovaDA.Lab1.TaskReview.V6\Tyuiu.MenshchikovaDA.Lab1.TaskReview\obj\Debug\Tyuiu.MenshchikovaDA.Lab1.TaskReview.pdb
